@@ -7,7 +7,7 @@ A modern web platform dedicated to preserving and celebrating cultural heritage 
 
 ## Overview
 
-Heritage Hub is an educational and engaging platform that digitally preserves cultural heritage and helps young people connect with their cultural roots. The platform features cultural stories, traditional attire galleries, indigenous languages and values, educational facts, and a contribution system for youth to share their own traditions.
+Heritage Hub is an educational and engaging platform that digitally preserves cultural heritage and helps young people connect with their cultural roots. This platform features cultural stories, traditional attire galleries, indigenous languages, values, educational facts, and a contribution system for youth to share their own traditions.
 
 ## Features
 
