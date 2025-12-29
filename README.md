@@ -123,7 +123,7 @@ project/
    - User-submitted content
    - Fields: contributor_name, contributor_email, title, content, type, status
 
-## Getting Started
+## Get Started
 
 ### Prerequisites
 
